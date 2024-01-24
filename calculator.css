@@ -1,0 +1,21 @@
+#footer{
+	background-color: orange;
+	text-align: center;
+	padding: 5px;
+	font-size: 10px !important;
+    height: 20px;
+}
+
+#formele{
+    margin-left: 350px;
+    border: 1px solid;
+    width: 250Px;
+    height: 350px;
+}
+
+#btnc{
+    background-color:orange;
+    border-radius: 5px;
+    height: 35px;
+    margin-left: 65px;
+}
